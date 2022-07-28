@@ -11,7 +11,7 @@ body {
 }
 
 .main_header {
-  background: url(/lib2.png);
+  background: url(./lib2.png);
   width: 100%;
   /* max-width: 1000px; */
   height: 8rem;
